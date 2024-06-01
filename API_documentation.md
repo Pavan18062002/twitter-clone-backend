@@ -23,7 +23,6 @@
         "text": "Another tweet.",
         "createdAt": "<TIMESTAMP>"
       },
-      ...
     ]
 
     
